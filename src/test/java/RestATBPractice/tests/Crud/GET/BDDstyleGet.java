@@ -1,8 +1,8 @@
-package RestATBPractice.tests;
+package RestATBPractice.tests.Crud.GET;
 
 import io.restassured.RestAssured;
 
-public class RestCase {
+public class BDDstyleGet {
     public static void main(String[] args) {
 
         //Get request
