@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATBRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.008">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test02"
+                time="0.004"
+                classname="RestATBPractice.Testng.PriorityDemo">
+            </testcase>
+            <testcase
+                name="test01"
+                time="0.004"
+                classname="RestATBPractice.Testng.PriorityDemo">
+            </testcase>
+</testsuite>
