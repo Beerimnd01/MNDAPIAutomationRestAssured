@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ATBRestAssured"
-           tests="1"
+<testsuite name="F:/RestAPI/ATBRestAssured/src/test/java/RestATBPractice/Testng/Testng005.java"
+           tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="2.082">
+           time="3.513">
     <properties></properties>
 
 
 
             <testcase
                 name="testPUTRequest2"
-                time="2.082"
+                time="1.698"
+                classname="RestATBPractice.Testng.Testng005">
+            </testcase>
+            <testcase
+                name="testPUTRequest"
+                time="1.815"
                 classname="RestATBPractice.Testng.Testng005">
             </testcase>
 </testsuite>
