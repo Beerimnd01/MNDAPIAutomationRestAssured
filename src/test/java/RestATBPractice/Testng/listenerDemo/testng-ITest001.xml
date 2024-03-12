@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+
+        <listener class-name="RestATBPractice.Testng.listenerDemo.CustomListener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="F:/RestAPI/ATBRestAssured/src/test/java/RestATBPractice/Testng/Testng005.java">
+        <groups>
+        <run>
+            <include name="sanity"></include>
+        </run>
+    </groups>
+        <classes>
+            <class name="RestATBPractice.Testng.listenerDemo.ItlTest001">
+
+            </class>
+        </classes>
+    </test>
+</suite>

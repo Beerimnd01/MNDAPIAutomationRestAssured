@@ -22,7 +22,7 @@ public class UtilExcel {
 
     static Workbook book;
     static Sheet sheet;
-    public static String FILE_NAME = "src/test/java/RestATBPractice/Testng/resources/TD.xlsx";
+    public static String FILE_NAME = "src/test/resources/TD.xlsx";
 
     public static Object[][] getTestData(String sheetName) {
         FileInputStream file = null;

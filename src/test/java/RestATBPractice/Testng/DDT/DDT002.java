@@ -27,7 +27,7 @@ public class DDT002 {
     public void testLoginData(String username, String password, String ER , String AR, String name, String ge, String phone ) {
         System.out.println("UserName - " + username);
         System.out.println("Password - " + password);
-        System.out.println("ER - " + ER);
+
 
         // Login to app API
 
