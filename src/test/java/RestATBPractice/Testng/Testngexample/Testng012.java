@@ -1,4 +1,4 @@
-package RestATBPractice.Testng;
+package RestATBPractice.Testng.Testngexample;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;

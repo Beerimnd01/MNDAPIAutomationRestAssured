@@ -12,6 +12,6 @@
             <testcase
                 name="testNonBDDStylePUTReq"
                 time="2.022"
-                classname="RestATBPractice.Testng.Testng002">
+                classname="RestATBPractice.Testng.Testngexample.Testng002">
             </testcase>
 </testsuite>

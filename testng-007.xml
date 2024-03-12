@@ -9,7 +9,7 @@
             </run>
         </groups>
         <classes>
-            <class name="RestATBPractice.Testng.Testng007">
+            <class name="RestATBPractice.Testng.Testngexample.Testng007">
             </class>
         </classes>
     </test>

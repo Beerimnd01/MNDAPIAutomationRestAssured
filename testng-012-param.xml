@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true" name="F:/RestAPI/ATBRestAssured/src/test/java/RestATBPractice/Testng/Testng007.java">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="RestATBPractice.Testng.Testng012">
+            <class name="RestATBPractice.Testng.Testngexample.Testng012">
             </class>
         </classes>
     </test>

@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="F:/RestAPI/ATBRestAssured/src/test/java/RestATBPractice/Testng/Testng005.java">
         <classes>
-            <class name="RestATBPractice.Testng.Testng005">
+            <class name="RestATBPractice.Testng.Testngexample.Testng005">
                 <methods><include name="testPUTRequest"/>
                     <include name="testPUTRequest2"/>
                 </methods>

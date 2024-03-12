@@ -12,11 +12,11 @@
             <testcase
                 name="testPUTRequest2"
                 time="1.698"
-                classname="RestATBPractice.Testng.Testng005">
+                classname="RestATBPractice.Testng.Testngexample.Testng005">
             </testcase>
             <testcase
                 name="testPUTRequest"
                 time="1.815"
-                classname="RestATBPractice.Testng.Testng005">
+                classname="RestATBPractice.Testng.Testngexample.Testng005">
             </testcase>
 </testsuite>
